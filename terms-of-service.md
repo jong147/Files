@@ -1,6 +1,8 @@
 ### Terms of Service
 
-By downloading or playing Puzzling, users agree to these Terms of Service. Puzzling is a mobile word game application designed for entertainment purposes.
+By downloading or playing Puzzling, users agree to these Terms of Service. If you do not agree with these terms, please do not use the application.
+
+Puzzling is a mobile word game application designed for entertainment purposes.
 
 All content within this application is the property of its respective owners.
 
